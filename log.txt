@@ -1,0 +1,217 @@
+Commands:
+======================================================
+Request: spotify-this-song better not
+======================================================
+Artist(s): Louis The Child, Wafia
+Song: Better Not (feat. Wafia)
+Link: https://open.spotify.com/track/447yWcDPg1ddgcHBLGpJC0
+Album: Better Not (feat. Wafia)
+======================================================
+Artist(s): Louis The Child, Wafia
+Song: Better Not - Acoustic
+Link: https://open.spotify.com/track/5F7Q8pluSbCWA64Gcg5fOv
+Album: Better Not (Acoustic)
+======================================================
+Artist(s): Louis The Child, Wafia, Shaun Frank
+Song: Better Not (feat. Wafia) - Shaun Frank Remix
+Link: https://open.spotify.com/track/7kGIyYQc44EQcJR3HH314y
+Album: Better Not (Remixes)
+======================================================
+Artist(s): Witt Lowry, Deion Reverie
+Song: Better for Me (feat. Deion Reverie)
+Link: https://open.spotify.com/track/5B7XPi6NnWXxEoQcBSbV33
+Album: I Could Not Plan This
+======================================================
+Artist(s): Louis The Child, Wafia, Zach Nicita
+Song: Better Not (feat. Wafia) - Zach Nicita Remix
+Link: https://open.spotify.com/track/0kdkc4WGAjEoIzK87YZKvX
+Album: Better Not (Remixes)
+======================================================
+Artist(s): What So Not, LPX
+Song: Better
+Link: https://open.spotify.com/track/1p2S7PthbK0HI6clgvZI2K
+Album: Better
+======================================================
+Artist(s): Us The Duo
+Song: Not for the Better
+Link: https://open.spotify.com/track/2dNuVeX5npUQSukIW5DyCC
+Album: Just Love
+======================================================
+Artist(s): 3 Doors Down
+Song: Not Enough
+Link: https://open.spotify.com/track/7oJxBvERnRP6u0uOm14cjN
+Album: The Better Life
+======================================================
+Artist(s): Louis The Child, Wafia, KRANE
+Song: Better Not (feat. Wafia) - KRANE Remix
+Link: https://open.spotify.com/track/1Jclco7ru4RNnHd3Qsozjb
+Album: Better Not (Remixes)
+======================================================
+Artist(s): Louis The Child, Wafia, Hotel Garuda
+Song: Better Not (feat. Wafia) - Hotel Garuda Remix
+Link: https://open.spotify.com/track/7f3YTMHL4C2l7v8qqc0QNo
+Album: Better Not (Remixes)
+======================================================
+
+======================================================
+Request: concert-this rezz
+======================================================
+Venue: Lost Lands Music Festival SEPT 14-17 
+Location: Thornville, OH
+Date: Friday, September 14th 2018, 1:00 pm
+======================================================
+Venue: House Of Blues Boston
+Location: Boston, MA
+Date: Saturday, September 15th 2018, 7:00 pm
+======================================================
+Venue: Wamu Theatre
+Location: Seattle, WA
+Date: Saturday, September 29th 2018, 7:00 pm
+======================================================
+Venue: Rebel
+Location: Toronto, Canada
+Date: Friday, October 5th 2018, 10:00 pm
+======================================================
+Venue: Echostage
+Location: Washington, DC
+Date: Saturday, October 6th 2018, 9:00 pm
+======================================================
+Venue: Austin City Limits
+Location: Austin, TX
+Date: Sunday, October 7th 2018, 4:00 pm
+======================================================
+Venue: RED ROCKS
+Location: Morrison, CO
+Date: Saturday, October 13th 2018, 5:00 pm
+======================================================
+Venue: Austin City Limits
+Location: Austin, TX
+Date: Sunday, October 14th 2018, 4:00 pm
+======================================================
+Venue: Suwannee Hulaween OCT 26-28
+Location: Live Oak, FL
+Date: Friday, October 26th 2018, 7:00 pm
+======================================================
+Venue: Armory
+Location: Minneapolis, MN
+Date: Wednesday, October 31st 2018, 7:00 pm
+======================================================
+Venue: Masonic Temple 
+Location: Detroit, MI
+Date: Friday, November 2nd 2018, 8:00 pm
+======================================================
+Venue: New City Gas 
+Location: Montreal, Canada
+Date: Friday, November 9th 2018, 10:00 pm
+======================================================
+Venue: Electric Factory
+Location: Philadelphia, PA
+Date: Saturday, November 10th 2018, 9:00 pm
+======================================================
+Venue: Aragon Ballroom
+Location: Chicago, IL
+Date: Friday, November 16th 2018, 8:00 pm
+======================================================
+Venue: PNE Forum 
+Location: Vancouver, Canada
+Date: Saturday, November 17th 2018, 7:00 pm
+======================================================
+Venue: Revention Music Center
+Location: Houston, TX
+Date: Wednesday, November 21st 2018, 7:00 pm
+======================================================
+Venue: Shrine Auditorium and Expo Hall
+Location: Los Angeles, CA
+Date: Friday, November 23rd 2018, 8:00 pm
+======================================================
+Venue: Shrine Auditorium and Expo Hall
+Location: Los Angeles, CA
+Date: Saturday, November 24th 2018, 7:00 pm
+======================================================
+Venue: Lights All Night DEC 28-29
+Location: Dallas, TX
+Date: Friday, December 28th 2018, 7:00 pm
+======================================================
+Venue: Certain Kind of Magic NYE
+Location: Sf, CA
+Date: Monday, December 31st 2018, 10:00 pm
+======================================================
+Venue: Holy Ship JAN 5-9
+Location: Port Canaveral, FL
+Date: Saturday, January 5th 2019, 7:00 pm
+======================================================
+Venue: Deja Voom FEB 27 - MAR 2 
+Location: Riviera Maya, Mexico
+Date: Wednesday, February 27th 2019, 7:00 pm
+======================================================
+
+======================================================
+Request: movie-this get out
+======================================================
+Title: Get Out
+Year: 2017
+IMDb Rating: 7.7
+Rotten Tomatoes Rating: 99%
+Country: Japan, USA
+Language: English
+Plot: A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.
+Actors: Daniel Kaluuya, Allison Williams, Catherine Keener, Bradley Whitford
+======================================================
+
+======================================================
+Request: do-what-it-says 
+======================================================
+
+======================================================
+Request: spotify-this-song "I Want it That Way"
+======================================================
+Artist(s): Backstreet Boys
+Song: I Want It That Way
+Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+======================================================
+Artist(s): Backstreet Boys
+Song: I Want It That Way
+Link: https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
+Album: Millennium
+======================================================
+Artist(s): Anthem Lights
+Song: I Want It That Way
+Link: https://open.spotify.com/track/3Ww6kEWxLh4Ub4WPJ9hMtA
+Album: Covers Part IV
+======================================================
+Artist(s): Manuel Costa
+Song: I Want It That Way
+Link: https://open.spotify.com/track/4Sp4RxkWukxqJykl0ySNQi
+Album: I Want It That Way
+======================================================
+Artist(s): Dynamite Boy
+Song: I Want It That Way
+Link: https://open.spotify.com/track/0F5f29urvisi4TiwJOQZWN
+Album: Punk Goes Pop
+======================================================
+Artist(s): Backstreet Boys
+Song: I Want It That Way
+Link: https://open.spotify.com/track/1zCiqxhampG4dcC7HEqPu5
+Album: 90 Sweet 90s Hits!
+======================================================
+Artist(s): "Weird Al" Yankovic
+Song: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Link: https://open.spotify.com/track/4vHb50VkxDzHYwLiHfWczK
+Album: Poodle Hat
+======================================================
+Artist(s): Backstreet Boys
+Song: I Want It That Way
+Link: https://open.spotify.com/track/2KMwtsWwL5QDtSpm814tju
+Album: NKOTBSB
+======================================================
+Artist(s): Glee Cast
+Song: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Link: https://open.spotify.com/track/3t7m7AzV2ntuI9fIT6KREP
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+======================================================
+Artist(s): Boyce Avenue
+Song: I Want It That Way
+Link: https://open.spotify.com/track/16COzZ7jCVn3O8b8ZgviOx
+Album: Cover Sessions, Vol. 2
+======================================================
